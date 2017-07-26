@@ -45,8 +45,6 @@ $ yarn add swagger-jsdoc
 
 [Get started](./docs/GETTING-STARTED.md) by documenting your code.
 
-Note that `swagger-jsdoc` uses [node glob](https://github.com/isaacs/node-glob) module in the background when taking your files. This means that you can use patterns such as `*.js` to select all javascript files or `**/*.js` to select all javascript files in sub-folders recursively.
-
 ### Example app
 
 There is an example app in the example subdirectory.
